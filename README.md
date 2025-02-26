@@ -35,8 +35,7 @@ pip install tensorflow pandas numpy networkx pyverilog scikit-learn
 🚀 Usage
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/GH-2025-Logic-Depth.git
-cd GH-2025-Logic-Depth
+(https://github.com/Shwet2022/AI-Based-Logic-Depth-Predictor.git)
 2️⃣ Prepare RTL File
 
 Place your Verilog RTL file in the same directory, or use the provided example_rtl.v.
